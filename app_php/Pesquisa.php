@@ -6,5 +6,4 @@
 		$string = $_GET["search"];
 		echo "Você pesquisou por $string";
 	?>
-
 </html>
