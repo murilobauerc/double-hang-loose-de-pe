@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<link rel="stylesheet" type="text/css" media="screen" href="css/style.css"/>
+		<link rel="stylesheet" type="text/css" media="screen" href="../css/style.css"/>
 		<?php
 			$cortl = isset($_GET["cortl"])?$_GET["cortl"]:"#000000";
 			$corl = isset($_GET["corl"])?$_GET["corl"]:"#000000";
