@@ -64,7 +64,11 @@
         <form method="get" action="app_php/Pesquisa.php">
             Pesquisa: <input type="text" name="search"/>
             <input type="submit" name=">"/>
-            <input type="color" name="cor" id="icor">
+            Cor do texto left: <input type="color" name="cortl" id="icor">
+            Cor do fundo left: <input type="color" name="corl" id="icor">
+            Cor do texto right: <input type="color" name="cortr" id="icor">
+            Cor do fundo right: <input type="color" name="corr" id="icor">
+            Cor do background: <input type="color" name="corb" id="icor">
         </form>
         <ul>    
             <li> 
