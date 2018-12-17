@@ -2,6 +2,12 @@
 <html>
 	<head>
 		<link rel="stylesheet" type="text/css" media="screen" href="../css/style.css"/>
+		<?php
+			$cor = isset($_GET["cor"])?$_GET["cor"]:"#000000"
+		?>
+		<style type="text/css">
+			color: <?php echo $cor; ?>;
+		</style>
 	</head>
 
 
