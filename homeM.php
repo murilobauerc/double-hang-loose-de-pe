@@ -59,8 +59,17 @@
 
     </article>
 
-    <aside>
+    <aside id="mySidenav" class="sidenav">
         <h3> Menu </h3>
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        <a href="#">About</a>
+        <a href="#">Services</a>
+        <a href="#">Clients</a>
+        <a href="#">Contact</a>
+
+        <!-- Use any element to open the sidenav -->
+        <span onclick="openNav()">open</span>
+
         <form method="get" action="app_php/Pesquisa.php">
             Pesquisa: <input type="text" name="search"/><br/>
             Cor do texto left: <input type="color" name="cortl"><br/>
