@@ -63,12 +63,12 @@
         <h3> Menu </h3>
         <form method="get" action="app_php/Pesquisa.php">
             Pesquisa: <input type="text" name="search"/>
+            Cor do texto left: <input type="color" name="cortl" id="icor"><br/>
+            Cor do fundo left: <input type="color" name="corl" id="icor"><br/>
+            Cor do texto right: <input type="color" name="cortr" id="icor"><br/>
+            Cor do fundo right: <input type="color" name="corr" id="icor"><br/>
+            Cor do background: <input type="color" name="corb" id="icor"><br/>
             <input type="submit" name=">"/>
-            Cor do texto left: <input type="color" name="cortl" id="icor">
-            Cor do fundo left: <input type="color" name="corl" id="icor">
-            Cor do texto right: <input type="color" name="cortr" id="icor">
-            Cor do fundo right: <input type="color" name="corr" id="icor">
-            Cor do background: <input type="color" name="corb" id="icor">
         </form>
         <ul>    
             <li> 

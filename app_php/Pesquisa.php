@@ -19,8 +19,7 @@
 				background: <?php echo $corr; ?>;
 			}
 			body {
-				  background-color: <?php echo $corb; ?>;
-				  
+				background-color: <?php echo $corb; ?>;
 				}
 
 		</style>
