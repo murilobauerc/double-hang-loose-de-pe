@@ -62,7 +62,7 @@
     <aside>
         <h3> Menu </h3>
         <form method="get" action="app_php/Pesquisa.php">
-            Pesquisa: <input type="text" name="search"/>
+            Pesquisa: <input type="text" name="search"/><br/>
             Cor do texto left: <input type="color" name="cortl" id="icor"><br/>
             Cor do fundo left: <input type="color" name="corl" id="icor"><br/>
             Cor do texto right: <input type="color" name="cortr" id="icor"><br/>
