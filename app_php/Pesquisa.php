@@ -9,7 +9,7 @@
 			$corr = isset($_GET["corr"])?$_GET["corr"]:"#000000";
 			$corb = isset($_GET["corb"])?$_GET["corb"]:"#000000";
 			$cornavb = isset($_GET["cornavb"])?$_GET["cornavb"]:"#000000";
-			$cornavt = isset($_GET["cornavb"])?$_GET["cornavb"]:"#000000";
+			$cornavt = isset($_GET["cornavt"])?$_GET["cornavt"]:"#000000";
 		?>
 		<style type="text/css">
 			article {
