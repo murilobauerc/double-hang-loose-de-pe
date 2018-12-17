@@ -31,6 +31,7 @@
     </header>
 
     <article>
+        <span onclick="openNav()">open</span>
         <h3> Membros: </h3>
         <ul>    
             <li> Alan Soledar </li>
@@ -140,8 +141,8 @@
         </ul>
     <div/>
     <!-- Use any element to open the sidenav -->
-    <span onclick="openNav()">open</span>
     
+
     <footer>
 
 
