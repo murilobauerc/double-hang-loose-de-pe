@@ -64,6 +64,7 @@
         <form method="get" action="app_php/Pesquisa.php">
             Pesquisa: <input type="text" name="search"/>
             <input type="submit" name=">"/>
+            <input type="color" name="cor" id="icor">
         </form>
         <ul>    
             <li> 

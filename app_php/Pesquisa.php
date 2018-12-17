@@ -19,13 +19,14 @@
 	            </li>
 	        </ul>
     	</nav>
+    	<article>
+			<?php
+				echo "Teste<br/>";
+				$string = $_GET["search"];
+				echo "Você pesquisou por $string";
 
-		<?php
-			echo "Teste<br/>";
-			$string = $_GET["search"];
-			echo "Você pesquisou por $string";
-
-		?>
+			?>
+		</article>
 	</body>
 
 </html>
