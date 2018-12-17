@@ -9,6 +9,7 @@
 			$corr = isset($_GET["corr"])?$_GET["corr"]:"#000000";
 			$corb = isset($_GET["corb"])?$_GET["corb"]:"#000000";
 			$cornavb = isset($_GET["cornavb"])?$_GET["cornavb"]:"#000000";
+			$cornavt = isset($_GET["cornavb"])?$_GET["cornavb"]:"#000000";
 		?>
 		<style type="text/css">
 			article {
@@ -25,6 +26,9 @@
 			#navbar {
 				background-color: <?php echo $cornavb; ?>;
 			}
+			#navbar a {
+				color: <?php echo $cornavt; ?>;
+			}
 
 		</style>
 	</head>
@@ -36,7 +40,7 @@
 	        <ul>
 	            <li>
 	                <h1>
-	                    <a href="../index.html"> DHLDP </a>
+	                    <a href="http://dhldp-site.herokuapp.com/"> DHLDP </a>
 	                </h1>
 	                <a href="../index2.html"> Próxima Página </a>
 	                <a href="https://github.com/"> Github </a>
@@ -54,6 +58,7 @@
 				echo "cor de texto left: $cortl <br/>";
 				echo "cor de texto right: $cortr <br/>";
 				echo "cor de fundo navbar: $cornavb <br/>";
+				echo "cor de fundo navbar: $cornavt <br/>";
 				echo "cor de background: $corb <br/>";
 
 			?>

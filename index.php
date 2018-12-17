@@ -69,6 +69,7 @@
             Cor do fundo right: <input type="color" name="corr"><br/>
             Cor do background: <input type="color" name="corb"><br/>
             Barra background: <input type="color" name="cornavb"><br/>
+            Barra texto: <input type="color" name="cornavt"><br/>
             <input type="submit" name=">"/>
         </form>
         <ul>    
