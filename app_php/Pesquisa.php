@@ -48,13 +48,13 @@
 			<?php
 				echo "Teste<br/>";
 				$string = $_GET["search"];
-				echo "Você pesquisou por $string []"<br/>;
-				echo "cor de fundo left $corl []"<br/>;
-				echo "cor de fundo right $corr []"<br/>;
-				echo "cor de texto left $cortl []"<br/>;
-				echo "cor de texto right $cortr []"<br/>;
-				echo "cor de fundo navbar $cornavb []"<br/>;
-				echo "cor de background $corb []"<br/>;
+				echo "Você pesquisou por [$string]<br/>";
+				echo "cor de fundo left: $corl <br/>";
+				echo "cor de fundo right: $corr <br/>";
+				echo "cor de texto left: $cortl <br/>";
+				echo "cor de texto right: $cortr <br/>";
+				echo "cor de fundo navbar: $cornavb <br/>";
+				echo "cor de background: $corb <br/>";
 
 			?>
 		</article>
