@@ -36,9 +36,9 @@
 	        <ul>
 	            <li>
 	                <h1>
-	                    <a href="index.html"> DHLDP </a>
+	                    <a href="../index.html"> DHLDP </a>
 	                </h1>
-	                <a href="index2.html"> Próxima Página </a>
+	                <a href="../index2.html"> Próxima Página </a>
 	                <a href="https://github.com/"> Github </a>
 	                
 	            </li>
@@ -62,58 +62,58 @@
 	        <h3> Menu </h3>
 	        <ul>    
 	            <li> 
-	                <a href="index.html"> opção 1 </a>
+	                <a href="../index.html"> opção 1 </a>
 	            </li>
 	            <li> 
-	                <a href="index.html"> opção 2 </a>
+	                <a href="../index.html"> opção 2 </a>
 	            </li>
 	            <li> 
-	                <a href="index.html"> opção 3 </a>
+	                <a href="../index.html"> opção 3 </a>
 	            </li>
 	            <li> 
-	                <a href="index.html"> opção 4 </a>
+	                <a href="../index.html"> opção 4 </a>
 	            </li>
 	            <li> 
-	                <a href="index.html"> opção 5 </a>
+	                <a href="../index.html"> opção 5 </a>
 	            </li>
 	            <li> 
-	                <a href="index.html"> opção 6 </a>
+	                <a href="../index.html"> opção 6 </a>
 	            </li>
 	            <li> 
-	                <a href="index.html"> opção 7 </a>
+	                <a href="../index.html"> opção 7 </a>
 	            </li>
 	            <li> 
-	                <a href="index.html"> opção 8 </a>
+	                <a href="../index.html"> opção 8 </a>
 	            </li>
 	            <li> 
-	                <a href="index.html"> opção 9 </a>
+	                <a href="../index.html"> opção 9 </a>
 	            </li>
 	            <li> 
-	                <a href="index.html"> opção 10 </a>
+	                <a href="../index.html"> opção 10 </a>
 	            </li>
 	            <li> 
-	                <a href="index.html"> opção 11 </a>
+	                <a href="../index.html"> opção 11 </a>
 	            </li>
 	            <li> 
-	                <a href="index.html"> opção 12 </a>
+	                <a href="../index.html"> opção 12 </a>
 	            </li>
 	            <li> 
-	                <a href="index.html"> opção 13 </a>
+	                <a href="../index.html"> opção 13 </a>
 	            </li>
 	            <li> 
-	                <a href="index.html"> opção 14 </a>
+	                <a href="../index.html"> opção 14 </a>
 	            </li>
 	            <li> 
-	                <a href="index.html"> opção 15 </a>
+	                <a href="../index.html"> opção 15 </a>
 	            </li>
 	            <li> 
-	                <a href="index.html"> opção 16 </a>
+	                <a href="../index.html"> opção 16 </a>
 	            </li>
 	            <li> 
-	                <a href="index.html"> opção 17 </a>
+	                <a href="../index.html"> opção 17 </a>
 	            </li>
 	            <li> 
-	                <a href="index.html"> opção 18 </a>
+	                <a href="../index.html"> opção 18 </a>
 	            </li>
 	            <li> 
 	                <a href="index.html"> opção 19 </a>
