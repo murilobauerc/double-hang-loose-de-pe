@@ -6,7 +6,9 @@
 			$cor = isset($_GET["cor"])?$_GET["cor"]:"#000000"
 		?>
 		<style type="text/css">
-			color: <?php echo $cor; ?>;
+			article {
+				color: <?php echo $cor; ?>;
+			}
 		</style>
 	</head>
 
@@ -29,7 +31,7 @@
 			<?php
 				echo "Teste<br/>";
 				$string = $_GET["search"];
-				echo "Você pesquisou por $string";
+				echo "Você pesquisou por $string na cor $cor";
 
 			?>
 		</article>
