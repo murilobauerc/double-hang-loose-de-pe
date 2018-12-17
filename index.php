@@ -4,13 +4,13 @@
     }
 
     if(isMobile()){
-        header("Location: http://dhldp-site.herokuapp.com/home.php"); /* Redirect browser */
+        header("Location: http://dhldp-site.herokuapp.com/home.php", true, 301); /* Redirect browser */
         exit();
     }
     else{
-        header("Location: http://dhldp-site.herokuapp.com/homeM.php"); /* Redirect browser */
+        header("Location: http://dhldp-site.herokuapp.com/homeM.php", true, 301); /* Redirect browser */
         exit();
     }
 
 
->
+?>
