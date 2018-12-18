@@ -24,14 +24,13 @@
         </ul>
 
     </nav>
-
+    <span id="btnopen" onclick="openNav()">open</span>
     <header>
         
 
     </header>
 
     <article>
-        <span id="btnopen" onclick="openNav()">open</span>
         <h3> Membros: </h3>
         <ul>    
             <li> Alan Soledar </li>

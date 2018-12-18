@@ -36,7 +36,7 @@ ul {
 
 article {
   font-size: 28px;
-  width: 90%;
+  width: 80%;
   font-family: Arial, Helvetica, sans-serif;
   margin: 0px 0px 0px 5%;
   padding: 3%;
@@ -111,17 +111,16 @@ article h3 {
 
 /* The side navigation menu */
 .sidenav {
-  height: 100%; /* 100% Full-height */
-  width: 0; /* 0 width - change this with JavaScript */
-  position: fixed; /* Stay in place */
-  z-index: 1; /* Stay on top */
-  top: 0; /* Stay at the top */
-  left: 0;
-  background-color: #111; /* Black*/
-  overflow-x: hidden; /* Disable horizontal scroll */
-  padding-top: 60px; /* Place content 60px from the top */
-  transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
-  color: white;
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  right: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
 }
 
 /* The navigation menu links */
@@ -163,9 +162,5 @@ article h3 {
 #btnopen {
   font-weight: bold;
   float: right;
-}
-
-.sidenav {
-  right: 0;
 }
 
