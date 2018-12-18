@@ -121,6 +121,7 @@ article h3 {
   overflow-x: hidden;
   transition: 0.5s;
   padding-top: 60px;
+  color: white;
 }
 
 /* The navigation menu links */
@@ -162,5 +163,7 @@ article h3 {
 #btnopen {
   font-weight: bold;
   float: right;
+  font-size: 28px;
+  color: white;
 }
 
