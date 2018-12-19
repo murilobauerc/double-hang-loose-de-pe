@@ -1,7 +1,3 @@
-
-
-
-
 /* tag { SELETORES
     property: attribute;
 } */
@@ -10,8 +6,24 @@ body {
   
 }
 
+
+/*conserta a orientação de imagens no firefox*/
 img {
   image-orientation: from-image;
+}
+
+/*rotaciona imagens 180 graus*/
+.rotate-180 {
+  -webkit-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+
+/*rotaciona imagens 90 graus*/
+.rotate-90 {
+  -webkit-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  transform: rotate(180deg);
 }
 
 h1 {
