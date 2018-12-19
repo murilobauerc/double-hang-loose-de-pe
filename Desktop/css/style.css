@@ -12,19 +12,6 @@ img {
   image-orientation: from-image;
 }
 
-/*rotaciona imagens 180 graus*/
-.rotate-180 {
-  -webkit-transform: rotate(180deg);
-  -ms-transform: rotate(180deg);
-  transform: rotate(180deg);
-}
-
-/*rotaciona imagens 90 graus*/
-.rotate-90 {
-  -webkit-transform: rotate(180deg);
-  -ms-transform: rotate(180deg);
-  transform: rotate(180deg);
-}
 
 h1 {
     text-align: center;
