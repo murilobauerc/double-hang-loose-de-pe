@@ -58,7 +58,7 @@
 		
 
     	<article>
-			<span id="btnopen" onclick="openNav()">open</span>
+			<span id="btnopen" onclick="openNav()">Open</span>
 			<?php
 				echo "Teste<br/>";
 				$string = $_GET["search"];
