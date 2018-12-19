@@ -40,14 +40,16 @@
 	        <ul>
 	            <li>
 	                <h1>
-	                    <a href="http://dhldp-site.herokuapp.com/Desktop/home.php"> DHLDP </a>
+	                    <a href="http://dhldp-site.herokuapp.com/Mobile/home.php"> DHLDP </a>
 	                </h1>
 	                <a href="../flamengo.html"> Próxima Página </a>
 	                <a href="https://github.com/murilobauerc/double-hang-loose-de-pe/tree/dhldp-php"> Github </a>
 	                
 	            </li>
 	        </ul>
-    	</nav>
+		</nav>
+		<span id="btnopen" onclick="openNav()">open</span>
+		
     	<article>
 			<?php
 				echo "Teste<br/>";
