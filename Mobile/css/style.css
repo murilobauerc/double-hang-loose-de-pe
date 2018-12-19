@@ -38,7 +38,6 @@ article ul {
 }
 
 article h3 {
-  float: left;
   color: #6495ED;
   text-shadow:  2px 2px #8B008B;
 }
@@ -52,6 +51,7 @@ article h3 {
 
 
 #navbar a {
+  float: left;
   display: block;
   color: #f2f2f2;
   text-align: left;
