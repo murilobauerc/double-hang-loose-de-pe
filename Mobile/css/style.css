@@ -95,11 +95,13 @@ article h3 {
   z-index: 1;
   top: 0;
   right: 0;
-  background-color: #111;
+  background-color: rgb(31, 31, 31);
   overflow-x: hidden;
   transition: 0.5s;
   padding-top: 60px;
+  padding-left: 10px;
   color: white;
+  border-radius: 7pt;
 }
 
 /* The navigation menu links */
