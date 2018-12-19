@@ -1,10 +1,10 @@
-
-
-
-
 /* tag { SELETORES
     property: attribute;
 } */
+/*ordem de propriedades
+top, right, bottom, left
+top/bottom, right/left
+*/
 body {
   background-color: rgb(6, 4, 37);
   
@@ -58,7 +58,7 @@ article h3 {
   display: block;
   color: #f2f2f2;
   text-align: left;
-  /*padding: 2px 2px;*/
+  padding: 8px 8px;
   text-decoration: none;
   font-size: 17px;
 }
@@ -76,8 +76,8 @@ article h3 {
 #navbar h1 a, #navbar h1 a:hover {
   color:#91918a;
   background-color: #333;
-  font-size: 32px;
-  /*padding: 0px 2px;*/ 
+  font-size: 28px;
+  /*padding: 0px 2px; */
   
 }
 .sticky {
