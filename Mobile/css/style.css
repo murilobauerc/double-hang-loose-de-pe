@@ -52,6 +52,10 @@ article h3 {
   background-color: #333;
 }
 
+#navbar li {
+  display: inline;
+}
+
 #navbar a {
   display: block;
   color: #f2f2f2;
