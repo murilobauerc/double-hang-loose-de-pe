@@ -45,31 +45,22 @@
 
     </article>
 
-    <aside>
+    <div id="mySidenav" class="sidenav">
         <h3> Menu </h3>
-        <ul>    
-            <li> opção 1 </li>
-            <li> opção 2 </li>
-            <li> opção 3 </li>
-            <li> opção 4 </li>
-            <li> opção 5 </li>
-            <li> opção 6 </li>
-            <li> opção 7 </li>
-            <li> opção 8 </li>
-            <li> opção 9 </li>
-            <li> opção 10 </li>
-            <li> opção 11 </li>
-            <li> opção 12 </li>
-            <li> opção 13 </li>
-            <li> opção 14 </li>
-            <li> opção 15 </li>
-            <li> opção 16 </li>
-            <li> opção 17 </li>
-            <li> opção 18 </li>
-        </ul>
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
 
-
-    </aside>
+        <form method="get" action="app_php/Pesquisa.php">
+            Pesquisa: <input type="text" name="search"/><br/>
+            Cor do texto left: <input type="color" name="cortl"><br/>
+            Cor do fundo left: <input type="color" name="corl"><br/>
+            Cor do texto right: <input type="color" name="cortr"><br/>
+            Cor do fundo right: <input type="color" name="corr"><br/>
+            Cor do background: <input type="color" name="corb"><br/>
+            Barra background: <input type="color" name="cornavb"><br/>
+            Barra texto: <input type="color" name="cornavt"><br/>
+            <input type="submit" name=">"/>
+        </form>
+    <div/>
 
     <footer>
 

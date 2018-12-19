@@ -7,7 +7,7 @@
         DHLDP
     </title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" media="screen" href="css/styleM.css"/>
+    <link rel="stylesheet" type="text/css" media="screen" href="css/style.css"/>
     <script src="main.js"></script>
 </head>
 <body>
@@ -15,16 +15,16 @@
         <ul>
             <li>
                 <h1>
-                    <a href="index.html"> DHLDP </a>
+                    <a href="http://dhldp-site.herokuapp.com/"> DHLDP </a>
                 </h1>
-                <a href="index2.html"> Próxima Página </a>
+                <a href="flamengo.html"> Próxima Página </a>
                 <a href="https://github.com/"> Github </a>
                 
             </li>
         </ul>
 
     </nav>
-    <span id="btnopen" onclick="openNav()">open</span>
+
     <header>
         
 
@@ -59,11 +59,8 @@
 
     </article>
 
-    
-    <div id="mySidenav" class="sidenav">
+    <aside>
         <h3> Menu </h3>
-        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-
         <form method="get" action="app_php/Pesquisa.php">
             Pesquisa: <input type="text" name="search"/><br/>
             Cor do texto left: <input type="color" name="cortl"><br/>
@@ -75,9 +72,68 @@
             Barra texto: <input type="color" name="cornavt"><br/>
             <input type="submit" name=">"/>
         </form>
-    <div/>
-    <!-- Use any element to open the sidenav -->
-    
+        <ul>    
+            <li> 
+                <a href="index.html"> opção 1 </a>
+            </li>
+            <li> 
+                <a href="index.html"> opção 2 </a>
+            </li>
+            <li> 
+                <a href="index.html"> opção 3 </a>
+            </li>
+            <li> 
+                <a href="index.html"> opção 4 </a>
+            </li>
+            <li> 
+                <a href="index.html"> opção 5 </a>
+            </li>
+            <li> 
+                <a href="index.html"> opção 6 </a>
+            </li>
+            <li> 
+                <a href="index.html"> opção 7 </a>
+            </li>
+            <li> 
+                <a href="index.html"> opção 8 </a>
+            </li>
+            <li> 
+                <a href="index.html"> opção 9 </a>
+            </li>
+            <li> 
+                <a href="index.html"> opção 10 </a>
+            </li>
+            <li> 
+                <a href="index.html"> opção 11 </a>
+            </li>
+            <li> 
+                <a href="index.html"> opção 12 </a>
+            </li>
+            <li> 
+                <a href="index.html"> opção 13 </a>
+            </li>
+            <li> 
+                <a href="index.html"> opção 14 </a>
+            </li>
+            <li> 
+                <a href="index.html"> opção 15 </a>
+            </li>
+            <li> 
+                <a href="index.html"> opção 16 </a>
+            </li>
+            <li> 
+                <a href="index.html"> opção 17 </a>
+            </li>
+            <li> 
+                <a href="index.html"> opção 18 </a>
+            </li>
+            <li> 
+                <a href="index.html"> opção 19 </a>
+            </li>
+        </ul>
+
+
+    </aside>
 
     <footer>
 
