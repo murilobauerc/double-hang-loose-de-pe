@@ -22,9 +22,9 @@
                 
             </li>
         </ul>
-
+        <span id="btnopen" onclick="openNav()">open</span>
     </nav>
-    <span id="btnopen" onclick="openNav()">open</span>
+    
     <header>
         
 

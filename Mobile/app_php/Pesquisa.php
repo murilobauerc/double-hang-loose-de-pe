@@ -1,8 +1,12 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<title>DHLDP</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="stylesheet" type="text/css" media="screen" href="../css/style.css"/>
-		<script src="../main.js"></script>
+		<script src="../js/main.js"></script>
 
 		<?php
 			$cortl = isset($_GET["cortl"])?$_GET["cortl"]:"#000000";
@@ -48,9 +52,10 @@
 	                <a href="https://github.com/murilobauerc/double-hang-loose-de-pe/tree/dhldp-php"> Github </a>
 	                
 	            </li>
-	        </ul>
+			</ul>
+			<span id="btnopen" onclick="openNav()">open</span>
 		</nav>
-		<span id="btnopen" onclick="openNav()">open</span>
+		
 
     	<article>
 			<?php
