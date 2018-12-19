@@ -53,11 +53,12 @@
 	                
 	            </li>
 			</ul>
-			<span id="btnopen" onclick="openNav()">open</span>
+			
 		</nav>
 		
 
     	<article>
+			<span id="btnopen" onclick="openNav()">open</span>
 			<?php
 				echo "Teste<br/>";
 				$string = $_GET["search"];

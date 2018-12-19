@@ -84,7 +84,7 @@ article h3 {
 }
 
 .sticky + .content {
-  padding-top: 60px;
+  padding-top: 20px;
 }
 
 /* The side navigation menu */
