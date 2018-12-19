@@ -22,7 +22,7 @@
                 
             </li>
         </ul>
-        <span id="btnopen" onclick="openNav()">open</span>
+        
     </nav>
     
     <header>
@@ -31,6 +31,7 @@
     </header>
 
     <article>
+    <span id="btnopen" onclick="openNav()">Open</span>
         <h3> Membros: </h3>
         <ul>    
             <li> Alan Soledar </li>
