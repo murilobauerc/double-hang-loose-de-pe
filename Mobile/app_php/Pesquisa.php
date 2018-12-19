@@ -2,8 +2,8 @@
 <html>
 	<head>
 		<link rel="stylesheet" type="text/css" media="screen" href="../css/style.css"/>
-		<script src="main.js"></script>
-		
+		<script src="../main.js"></script>
+
 		<?php
 			$cortl = isset($_GET["cortl"])?$_GET["cortl"]:"#000000";
 			$corl = isset($_GET["corl"])?$_GET["corl"]:"#000000";
