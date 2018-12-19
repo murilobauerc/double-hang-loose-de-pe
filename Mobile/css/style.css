@@ -10,6 +10,9 @@ body {
   
 }
 
+img {
+  image-orientation: from-image;
+}
 
 .redtxt {
     color: red;

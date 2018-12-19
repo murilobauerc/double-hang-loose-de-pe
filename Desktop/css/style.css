@@ -10,6 +10,10 @@ body {
   
 }
 
+img {
+  image-orientation: from-image;
+}
+
 h1 {
     text-align: center;
 }
