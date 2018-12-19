@@ -11,7 +11,7 @@
     <script src="main.js"></script>
 </head>
 <body>
-    <!-- Barra de navegação (possui propriedade sticky pelo css)-->
+    <!-- Barra de navegação (possui propriedade sticky pelo js e css)-->
     <nav id="navbar">
         <ul>
             <li>

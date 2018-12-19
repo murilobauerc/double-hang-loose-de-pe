@@ -45,7 +45,6 @@ article {
   border-radius: 7pt;
   background: #483D8B;
   float: left;
-  <!-- 70% -->
 
 }
 
@@ -67,6 +66,7 @@ article h3 {
   text-align: center;
 }
 
+/*barra de navegação*/
 #navbar {
   overflow: hidden;
   background-color: #333;

@@ -14,11 +14,11 @@
 		<style type="text/css">
 			article {
 				color: <?php echo $cortl; ?>;
-				background: <?php echo $corl; ?>;
+				background-color: <?php echo $corl; ?>;
 			}
-			aside {
+			.sidenav {
 				color: <?php echo $cortr; ?>;
-				background: <?php echo $corr; ?>;
+				background-color: <?php echo $corr; ?>;
 			}
 			body {
 				background-color: <?php echo $corb; ?>;

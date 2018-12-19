@@ -45,7 +45,6 @@ article {
   border-radius: 7pt;
   background: #483D8B;
   float: left;
-  <!-- 70% -->
 
 }
 
@@ -68,7 +67,7 @@ aside {
   border-radius: 7pt;
   background: #7B68EE;
   float: right;
-  <!-- 29% -->
+  
 }
 aside a {
   text-decoration: none;
