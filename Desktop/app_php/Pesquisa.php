@@ -40,10 +40,10 @@
 	        <ul>
 	            <li>
 	                <h1>
-	                    <a href="http://dhldp-site.herokuapp.com/"> DHLDP </a>
+	                    <a href="http://dhldp-site.herokuapp.com/Desktop/home.php"> DHLDP </a>
 	                </h1>
-	                <a href="../index2.html"> Próxima Página </a>
-	                <a href="https://github.com/"> Github </a>
+	                <a href="../flamengo.html"> Próxima Página </a>
+	                <a href="https://github.com/murilobauerc/double-hang-loose-de-pe/tree/dhldp-php"> Github </a>
 	                
 	            </li>
 	        </ul>

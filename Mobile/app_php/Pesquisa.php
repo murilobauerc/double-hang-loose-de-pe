@@ -40,10 +40,10 @@
 	        <ul>
 	            <li>
 	                <h1>
-	                    <a href="http://dhldp-site.herokuapp.com/"> DHLDP </a>
+	                    <a href="http://dhldp-site.herokuapp.com/Desktop/home.php"> DHLDP </a>
 	                </h1>
-	                <a href="../index2.html"> Próxima Página </a>
-	                <a href="https://github.com/"> Github </a>
+	                <a href="../flamengo.html"> Próxima Página </a>
+	                <a href="https://github.com/murilobauerc/double-hang-loose-de-pe/tree/dhldp-php"> Github </a>
 	                
 	            </li>
 	        </ul>
@@ -63,68 +63,24 @@
 
 			?>
 		</article>
-		<aside>
-	        <h3> Menu </h3>
-	        <ul>    
-	            <li> 
-	                <a href="../index.html"> opção 1 </a>
-	            </li>
-	            <li> 
-	                <a href="../index.html"> opção 2 </a>
-	            </li>
-	            <li> 
-	                <a href="../index.html"> opção 3 </a>
-	            </li>
-	            <li> 
-	                <a href="../index.html"> opção 4 </a>
-	            </li>
-	            <li> 
-	                <a href="../index.html"> opção 5 </a>
-	            </li>
-	            <li> 
-	                <a href="../index.html"> opção 6 </a>
-	            </li>
-	            <li> 
-	                <a href="../index.html"> opção 7 </a>
-	            </li>
-	            <li> 
-	                <a href="../index.html"> opção 8 </a>
-	            </li>
-	            <li> 
-	                <a href="../index.html"> opção 9 </a>
-	            </li>
-	            <li> 
-	                <a href="../index.html"> opção 10 </a>
-	            </li>
-	            <li> 
-	                <a href="../index.html"> opção 11 </a>
-	            </li>
-	            <li> 
-	                <a href="../index.html"> opção 12 </a>
-	            </li>
-	            <li> 
-	                <a href="../index.html"> opção 13 </a>
-	            </li>
-	            <li> 
-	                <a href="../index.html"> opção 14 </a>
-	            </li>
-	            <li> 
-	                <a href="../index.html"> opção 15 </a>
-	            </li>
-	            <li> 
-	                <a href="../index.html"> opção 16 </a>
-	            </li>
-	            <li> 
-	                <a href="../index.html"> opção 17 </a>
-	            </li>
-	            <li> 
-	                <a href="../index.html"> opção 18 </a>
-	            </li>
-	            <li> 
-	                <a href="index.html"> opção 19 </a>
-	            </li>
-	        </ul>
-    	</aside>
+
+		<div id="mySidenav" class="sidenav">
+			<h3> Menu </h3>
+			<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+
+			<form method="get" action="app_php/Pesquisa.php">
+				Pesquisa: <input type="text" name="search"/><br/>
+				Cor do texto left: <input type="color" name="cortl"><br/>
+				Cor do fundo left: <input type="color" name="corl"><br/>
+				Cor do texto right: <input type="color" name="cortr"><br/>
+				Cor do fundo right: <input type="color" name="corr"><br/>
+				Cor do background: <input type="color" name="corb"><br/>
+				Barra background: <input type="color" name="cornavb"><br/>
+				Barra texto: <input type="color" name="cornavt"><br/>
+				<input type="submit" name=">"/>
+			</form>
+		<div/>
+	
 	</body>
 
 </html>

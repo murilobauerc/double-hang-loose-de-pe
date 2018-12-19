@@ -11,6 +11,7 @@
     <script src="main.js"></script>
 </head>
 <body>
+    <!-- Barra de navegação (possui propriedade sticky pelo css)-->
     <nav id="navbar">
         <ul>
             <li>
@@ -50,7 +51,7 @@
             <li> Terry Jeffords </li>
             <li> Ciro Games </li>
             <li> Buro Coxinea </li>
-            <li> Gato Maconha </li>
+            <li> Gato Makonha </li>
             <li> Godoy </li>
             <li> Vitinho</li>
             <li> Klitzke</li>
@@ -61,6 +62,7 @@
 
     <aside>
         <h3> Menu </h3>
+        <!--formulário de pesquisa e de customização de cores-->
         <form method="get" action="app_php/Pesquisa.php">
             Pesquisa: <input type="text" name="search"/><br/>
             Cor do texto left: <input type="color" name="cortl"><br/>

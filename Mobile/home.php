@@ -50,7 +50,7 @@
             <li> Terry Jeffords </li>
             <li> Ciro Games </li>
             <li> Buro Coxinea </li>
-            <li> Gato Maconha </li>
+            <li> Gato Makonha </li>
             <li> Godoy </li>
             <li> Vitinho</li>
             <li> Klitzke</li>
