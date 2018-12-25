@@ -1,7 +1,0 @@
----
-applications:
-- name: dhldp-site
-  memory: 1G
-  buildpack: staticfile_buildpack
-  instances: 1
-  random-route: true
