@@ -56,6 +56,10 @@
             <li> Godoy </li>
             <li> Vitinho</li>
             <li> Klitzke</li>
+            <li> Gnome</li>
+            <li> Bob Esponja das cavernas</li>
+            <li> Alanzoka</li>
+            <li> Steve</li>
         
         </ul>
 

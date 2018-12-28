@@ -59,10 +59,11 @@ article ul {
 article h3 {
   font-size: 24px;
   color: rgb(136, 173, 243);
-  text-shadow:  2px 2px rgb(3, 151, 209);
+  text-shadow:  2px 2px rgb(0, 65, 90);
 }
   
 aside {
+  color: rgb(235, 183, 255);
   margin: 0px 7% 0px 0px;
   width: 20%;
   padding: 1%;
@@ -75,7 +76,7 @@ aside {
 }
 aside a {
   text-decoration: none;
-  color: black;
+  color: rgb(255, 163, 163);
 }
 
 aside a:hover {
@@ -85,7 +86,7 @@ aside a:hover {
 
 aside h3 {
   font-size: 22px;
-  color: rgb(143, 6, 240);
+  color: rgb(185, 102, 245);
   text-shadow:  1px 1px black;
 }
 
