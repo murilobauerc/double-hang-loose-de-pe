@@ -2,7 +2,7 @@
     property: attribute;
 } */
 body {
-  background-color: rgb(6, 4, 37);
+  background-color: rgb(4, 3, 29);
   
 }
 
@@ -38,37 +38,38 @@ ul {
 }
 
 article {
-  font-size: 28px;
   width: 60%;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
   margin: 0px 0px 0px 5%;
   padding: 3%;
   border: 2% solid #1b1b03;
   box-shadow: 4px 4px black;
   border-radius: 7pt;
-  background: #483D8B;
+  background: rgb(21, 14, 70);
   float: left;
 
 }
 
 article ul {
+  font-size: 20px;
   color: white;
   text-shadow:  1px 1px black;
 }
 
 article h3 {
-  color: #6495ED;
-  text-shadow:  2px 2px #8B008B;
+  font-size: 24px;
+  color: rgb(136, 173, 243);
+  text-shadow:  2px 2px rgb(3, 151, 209);
 }
   
 aside {
   margin: 0px 7% 0px 0px;
   width: 20%;
   padding: 1%;
-  border: 1% solid #8888bb;
+  border: 1% solid #471174;
   box-shadow: 4px 4px black;
   border-radius: 7pt;
-  background: #7B68EE;
+  background: rgb(34, 1, 88);
   float: right;
   
 }
@@ -83,8 +84,8 @@ aside a:hover {
 }
 
 aside h3 {
-  font-size: 28px;
-  color: #4B0082;
+  font-size: 22px;
+  color: rgb(143, 6, 240);
   text-shadow:  1px 1px black;
 }
 
