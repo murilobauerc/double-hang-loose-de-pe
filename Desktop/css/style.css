@@ -2,7 +2,7 @@
     property: attribute;
 } */
 body {
-  background-color: rgb(4, 3, 29);
+  background-color: rgb(2, 1, 20);
   
 }
 
@@ -43,7 +43,7 @@ article {
   margin: 0px 0px 0px 5%;
   padding: 3%;
   border: 2% solid #1b1b03;
-  box-shadow: 4px 4px black;
+  box-shadow: 4px 4px rgb(204, 228, 255);
   border-radius: 7pt;
   background: rgb(21, 14, 70);
   float: left;
@@ -64,10 +64,10 @@ article h3 {
   
 aside {
   color: rgb(235, 183, 255);
-  margin: 0px 7% 0px 0px;
+  margin: 1% 7% 0px 0px;
   width: 20%;
   padding: 1%;
-  border: 1% solid #471174;
+  border: 1% solid #e6c8ff;
   box-shadow: 4px 4px black;
   border-radius: 7pt;
   background: rgb(34, 1, 88);
